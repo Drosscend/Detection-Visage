@@ -1,6 +1,8 @@
 import cv2
 
 imagePath = "files/groupe1.jpg" # Chemin de l'image
+
+#https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
 cascadeClassifierPath = "haarcascade_frontalface_alt.xml" # Chemin du Classifier pour le visage
 
 cascadeClassifier = cv2.CascadeClassifier(cascadeClassifierPath)
