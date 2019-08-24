@@ -6,7 +6,6 @@ cascadeClassifierPath = 'haarcascade_frontalface_alt.xml' # Chemin du Classifier
 cascadeClassifier = cv2.CascadeClassifier(cascadeClassifierPath)
 
 cap = cv2.VideoCapture(0) # On récupère la webcam
-
 #cap = cv2.VideoCapture("files/video.mp4") # On récupère une vidéo
 
 while(cap.isOpened()):
