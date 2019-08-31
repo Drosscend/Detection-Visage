@@ -17,3 +17,7 @@ Une fois finie:
 - Dans le dossier où vous avez effecctuer la commande `git`, exécuter `cd Detection-Visage-Master`
 - Exécuter `python facedetimage.py` pour générer un fichier avec les visages de la photo indiquer entourer.
 - Exécuter `python facedetvideo.py` pour ouvrir un fichier avec votre webcam et la detection de visage activé ou vous ouvre un fichier si vous avec activer cette ligne dans le fichier ( en supprimant le "#")
+
+## Licence
+
+Tout les détails concernant la licences peuvent êtr vue ([ici](https://github.com/Drosscend/Detection-Visage/blob/master/LICENSE))
