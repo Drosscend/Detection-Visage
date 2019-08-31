@@ -20,4 +20,4 @@ Une fois finie:
 
 ## Licence
 
-Tout les détails concernant la licences peuvent êtr vue ([ici](https://github.com/Drosscend/Detection-Visage/blob/master/LICENSE))
+Tout les détails concernant la licence peuvent être consulter ([ici](https://github.com/Drosscend/Detection-Visage/blob/master/LICENSE))
