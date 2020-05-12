@@ -8,7 +8,7 @@ Dectection de visage à partir de vidéo ou d'image
 
 ## Téléchargement
 
-Dans une invite de commande de votre dossier de projets (où que ce soit), exécutez ce qui suit :
+Dans un invite de commande de votre dossier de projets (où que ce soit), exécutez ce qui suit :
 
 `git clone https://github.com/Drosscend/Detection-Visage/`
 
