@@ -4,7 +4,7 @@ Dectection de visage à partir de vidéo ou d'image
 ## Prérequis
 
 - `python` ([clique ici](https://www.python.org/downloads/)).
-- Dans un invite de commande executer la commande: `python -m pip install opencv-python`
+- Dans un invite de commande en tant qu'administrateur exécuter la commande: `python -m pip install opencv-python`
 
 ## Téléchargement
 
